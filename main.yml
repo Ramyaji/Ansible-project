@@ -3,3 +3,10 @@
 - include_tasks: myjavainstall.yml
 - include_tasks: myTomcatUser.yml
 - include_tasks: downloadExtract.yml
+- include_tasks: permissions.yml
+- include_tasks: mytomservice.yml
+- include_tasks: mytomstart.yml
+
+
+
+
